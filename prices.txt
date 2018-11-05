@@ -1,0 +1,4 @@
+TwinSeats	25000
+VeryVIP	100000
+VIP	50000
+Economy	20000
