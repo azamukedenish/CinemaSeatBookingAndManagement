@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Peter Brayo
+ * @author Azamuke Denish
  */
 
 
